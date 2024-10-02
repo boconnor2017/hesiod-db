@@ -27,6 +27,6 @@ cd hesiod-db
 
 ## Launch a PostgreSQL database
 ```
-python3 hesiod-db --postgres
+python3 hesiod-db.py --postgres
 ```
 
